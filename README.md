@@ -19,8 +19,6 @@ I enjoy solving problems, building useful systems, and continuously improving my
 
 ## 🛠 Tech & Tools
 
-*(Edit this section to match what you use)*
-
 - 💻 C# / .NET / Delphi
 - 🌐 HTML / CSS / Typescript 
 - 🗄 SQL / Databases  
